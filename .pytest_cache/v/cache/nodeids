@@ -1,0 +1,5 @@
+[
+  "tests/test_py_observer.py::TestObserver::test_basic",
+  "tests/test_py_observer.py::TestObserver::test_empty",
+  "tests/test_py_observer.py::TestObserver::test_type_error"
+]
